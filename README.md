@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying 3rd year Computer Science Engineering
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on Python/ML Projects
